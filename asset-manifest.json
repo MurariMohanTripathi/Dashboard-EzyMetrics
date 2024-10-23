@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Dashboard-EzyMetrics/static/css/main.9b8084de.css",
+    "main.js": "/Dashboard-EzyMetrics/static/js/main.4cef5b57.js",
+    "static/js/453.59b8a61b.chunk.js": "/Dashboard-EzyMetrics/static/js/453.59b8a61b.chunk.js",
+    "index.html": "/Dashboard-EzyMetrics/index.html",
+    "main.9b8084de.css.map": "/Dashboard-EzyMetrics/static/css/main.9b8084de.css.map",
+    "main.4cef5b57.js.map": "/Dashboard-EzyMetrics/static/js/main.4cef5b57.js.map",
+    "453.59b8a61b.chunk.js.map": "/Dashboard-EzyMetrics/static/js/453.59b8a61b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9b8084de.css",
+    "static/js/main.4cef5b57.js"
+  ]
+}
